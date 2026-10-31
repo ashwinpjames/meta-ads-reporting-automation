@@ -1,0 +1,91 @@
+date,campaign_id,campaign_name,adset_name,ad_name,spend,impressions,reach,link_clicks,leads,data_source
+2026-10-01,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,37.8,3690,2619,70,5,DEMONSTRATION
+2026-10-01,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,28.78,3289,2492,63,7,DEMONSTRATION
+2026-10-01,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,20.15,5822,4562,49,1,DEMONSTRATION
+2026-10-02,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,46.49,4538,3221,86,6,DEMONSTRATION
+2026-10-02,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,27.74,3171,2403,60,7,DEMONSTRATION
+2026-10-02,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,19.12,5523,4327,47,1,DEMONSTRATION
+2026-10-03,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,45.53,4444,3154,85,5,DEMONSTRATION
+2026-10-03,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,33.53,3832,2904,73,8,DEMONSTRATION
+2026-10-03,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,17.97,5191,4067,44,1,DEMONSTRATION
+2026-10-04,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,44.3,4324,3069,82,5,DEMONSTRATION
+2026-10-04,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,32.14,3673,2783,70,8,DEMONSTRATION
+2026-10-04,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,21.16,6112,4788,52,1,DEMONSTRATION
+2026-10-05,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,42.77,4175,2964,79,5,DEMONSTRATION
+2026-10-05,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,30.52,3488,2644,66,8,DEMONSTRATION
+2026-10-05,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,19.78,5713,4476,48,1,DEMONSTRATION
+2026-10-06,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,51.46,5024,3566,96,6,DEMONSTRATION
+2026-10-06,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,28.73,3283,2488,63,7,DEMONSTRATION
+2026-10-06,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,18.35,5302,4154,45,1,DEMONSTRATION
+2026-10-07,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,49.38,4820,3421,92,6,DEMONSTRATION
+2026-10-07,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,33.68,3849,2917,73,8,DEMONSTRATION
+2026-10-07,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,16.93,4891,3832,41,1,DEMONSTRATION
+2026-10-08,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,46.96,4584,3254,87,6,DEMONSTRATION
+2026-10-08,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,31.51,3601,2729,69,8,DEMONSTRATION
+2026-10-08,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,19.54,5646,4423,48,1,DEMONSTRATION
+2026-10-09,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,44.25,4320,3066,82,5,DEMONSTRATION
+2026-10-09,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,29.28,3347,2536,64,7,DEMONSTRATION
+2026-10-09,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,18.1,5230,4098,44,1,DEMONSTRATION
+2026-10-10,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,41.33,4035,2864,77,5,DEMONSTRATION
+2026-10-10,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,27.05,3091,2343,59,7,DEMONSTRATION
+2026-10-10,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,16.77,4843,3795,41,1,DEMONSTRATION
+2026-10-11,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,48.39,4724,3353,90,6,DEMONSTRATION
+2026-10-11,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,24.87,2843,2154,54,6,DEMONSTRATION
+2026-10-11,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,15.55,4491,3519,38,1,DEMONSTRATION
+2026-10-12,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,45.02,4395,3119,84,5,DEMONSTRATION
+2026-10-12,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,28.83,3295,2497,63,7,DEMONSTRATION
+2026-10-12,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,14.46,4177,3273,35,1,DEMONSTRATION
+2026-10-13,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,41.64,4065,2885,77,5,DEMONSTRATION
+2026-10-13,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,26.73,3055,2315,58,7,DEMONSTRATION
+2026-10-13,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,17.08,4934,3866,42,1,DEMONSTRATION
+2026-10-14,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,38.35,3743,2657,71,5,DEMONSTRATION
+2026-10-14,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,24.82,2837,2150,54,6,DEMONSTRATION
+2026-10-14,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,16.24,4691,3675,40,1,DEMONSTRATION
+2026-10-15,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,44.26,4320,3066,82,5,DEMONSTRATION
+2026-10-15,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,23.12,2642,2002,50,6,DEMONSTRATION
+2026-10-15,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,15.53,4487,3515,38,1,DEMONSTRATION
+2026-10-16,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,41.08,4010,2846,76,5,DEMONSTRATION
+2026-10-16,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,27.19,3107,2355,59,7,DEMONSTRATION
+2026-10-16,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,14.93,4314,3380,37,1,DEMONSTRATION
+2026-10-17,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,38.19,3728,2646,71,5,DEMONSTRATION
+2026-10-17,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,25.87,2957,2241,56,6,DEMONSTRATION
+2026-10-17,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,18.12,5236,4102,44,1,DEMONSTRATION
+2026-10-18,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,35.61,3477,2468,66,4,DEMONSTRATION
+2026-10-18,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,24.78,2832,2146,54,6,DEMONSTRATION
+2026-10-18,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,17.75,5127,4017,43,1,DEMONSTRATION
+2026-10-19,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,33.37,3257,2312,62,4,DEMONSTRATION
+2026-10-19,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,23.86,2727,2066,52,6,DEMONSTRATION
+2026-10-19,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,17.4,5026,3937,43,1,DEMONSTRATION
+2026-10-20,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,39.74,3879,2753,74,5,DEMONSTRATION
+2026-10-20,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,23.07,2636,1998,50,6,DEMONSTRATION
+2026-10-20,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,17.03,4920,3855,42,1,DEMONSTRATION
+2026-10-21,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,38.1,3719,2640,71,5,DEMONSTRATION
+2026-10-21,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,28.26,3230,2448,62,7,DEMONSTRATION
+2026-10-21,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,16.62,4801,3761,41,1,DEMONSTRATION
+2026-10-22,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,36.73,3585,2545,68,4,DEMONSTRATION
+2026-10-22,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,27.74,3170,2402,60,7,DEMONSTRATION
+2026-10-22,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,20.4,5892,4616,50,1,DEMONSTRATION
+2026-10-23,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,35.56,3471,2464,66,4,DEMONSTRATION
+2026-10-23,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,27.19,3108,2355,59,7,DEMONSTRATION
+2026-10-23,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,19.9,5750,4505,49,1,DEMONSTRATION
+2026-10-24,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,43.38,4235,3006,81,5,DEMONSTRATION
+2026-10-24,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,26.57,3036,2301,58,7,DEMONSTRATION
+2026-10-24,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,19.28,5571,4364,47,1,DEMONSTRATION
+2026-10-25,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,42.62,4161,2953,79,5,DEMONSTRATION
+2026-10-25,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,32.46,3710,2812,71,8,DEMONSTRATION
+2026-10-25,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,18.52,5351,4193,45,1,DEMONSTRATION
+2026-10-26,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,41.83,4084,2898,78,5,DEMONSTRATION
+2026-10-26,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,31.72,3625,2747,69,8,DEMONSTRATION
+2026-10-26,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,22.16,6403,5016,54,1,DEMONSTRATION
+2026-10-27,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,40.93,3996,2836,76,5,DEMONSTRATION
+2026-10-27,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,30.77,3516,2665,67,8,DEMONSTRATION
+2026-10-27,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,21.14,6108,4786,52,1,DEMONSTRATION
+2026-10-28,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,39.84,3889,2760,74,5,DEMONSTRATION
+2026-10-28,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,29.59,3382,2563,64,7,DEMONSTRATION
+2026-10-28,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,19.99,5776,4525,49,1,DEMONSTRATION
+2026-10-29,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,48.71,4755,3375,90,6,DEMONSTRATION
+2026-10-29,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,28.21,3224,2443,61,7,DEMONSTRATION
+2026-10-29,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,18.74,5413,4241,46,1,DEMONSTRATION
+2026-10-30,120001,Demo | UAE Immigration Leads,Demo Ad Set 1,Demo Ad 1,47.3,4618,3277,88,6,DEMONSTRATION
+2026-10-30,120002,Demo | Ayurveda Consultation,Demo Ad Set 2,Demo Ad 2,33.67,3848,2916,73,8,DEMONSTRATION
+2026-10-30,120003,Demo | Brand Awareness,Demo Ad Set 3,Demo Ad 3,17.41,5031,3941,43,1,DEMONSTRATION
