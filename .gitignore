@@ -17,6 +17,7 @@ dist/
 
 # Local data and generated reports
 data/*.csv
+!data/sample_campaign_data.csv
 data/*.xlsx
 reports/*
 !reports/.gitkeep
